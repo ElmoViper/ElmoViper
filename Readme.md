@@ -1,9 +1,8 @@
-<h1 👋 &nbsp;Hey there! I'm Arshia Majidpour</h1>
-
-<h2 👨🏻‍💻 &nbsp;About Me </h2>
+<h2>👋 &nbsp;Hey there! I'm Arshia Majidpour</h2>
+<h3>👨🏻‍💻 &nbsp;About Me </h2>
 
 💻 &nbsp; Verified Discord Developer\
-🎓 &nbsp;I'm currently studying Javascipt\
+🎓 &nbsp;I'm currently studying Javascript\
 🤖 &nbsp;My discord bot name is DeadKiller\
 😎 &nbsp;My nickname is Elmo \
 ☄️ &nbsp;My discord username is ElmoVipeя#9402\
@@ -23,7 +22,11 @@
 🤝🏻 &nbsp;Connect with Me
 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/696605232372908032" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ElmoViperr" target="_blank"><img alt="website" title="website" height="32" width="32" src="http://cdn.onlinewebfonts.com/svg/img_190618.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/556854910805737478" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://elmoviperr.github.io/" target="_blank"><img alt="website" title="website" height="32" width="32" src="http://cdn.onlinewebfonts.com/svg/img_190618.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/https://github.com/ElmoViperr"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 </p>
+
+<img src="https://discord.c99.nl/widget/theme-3/696605232372908032.png" >
+
+
