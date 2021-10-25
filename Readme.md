@@ -27,6 +27,6 @@
 <a href="https://github.com/ElmoViperr"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 </p>
 
-<img src="https://discord.c99.nl/widget/theme-3/696605232372908032.png" >
+<img src="https://discord.c99.nl/widget/theme-1/696605232372908032.png" >
 
 
