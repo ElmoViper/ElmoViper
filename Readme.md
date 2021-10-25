@@ -1,5 +1,5 @@
 <h2>👋 &nbsp;Hey there! I'm Arshia Majidpour</h2>
-<h3>👨🏻‍💻 &nbsp;About Me </h2>
+<h3>👨🏻‍💻 &nbsp;About Me </h3>
 
 💻 &nbsp; Verified Discord Developer\
 🎓 &nbsp;I'm currently studying Javascript\
@@ -9,7 +9,7 @@
 🌐 &nbsp;My website is https://elmoviperr.github.io/
 
 
-🛠️ &nbsp;My Tools
+<h3>🛠️ &nbsp;My Tools </h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -19,7 +19,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-🤝🏻 &nbsp;Connect with Me
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/556854910805737478" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
