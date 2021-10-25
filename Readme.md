@@ -1,4 +1,4 @@
-👋 &nbsp;Hey there! I'm Arshia Majidpour
+<h3 👋 &nbsp;Hey there! I'm Arshia Majidpour</h3>
 
 👨🏻‍💻 &nbsp;About Me
 
@@ -23,6 +23,6 @@
 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/696605232372908032" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/hesawmgh1098" target="_blank"><img alt="website" title="website" height="32" width="32" src="http://cdn.onlinewebfonts.com/svg/img_190618.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ElmoViperr" target="_blank"><img alt="website" title="website" height="32" width="32" src="http://cdn.onlinewebfonts.com/svg/img_190618.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/https://github.com/ElmoViperr"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 </p>
