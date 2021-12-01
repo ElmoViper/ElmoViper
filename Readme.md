@@ -2,7 +2,6 @@
 <h3>👨🏻‍💻 &nbsp;About Me </h3>
 
 💻 &nbsp; Verified Discord Developer\
-😎 &nbsp;My nickname is Elmo \
 ☄️ &nbsp;My discord username is ElmoVipeя#9402\
 🌐 &nbsp;My website is https://elmoviperr.github.io/
 
