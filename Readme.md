@@ -6,7 +6,7 @@
 🌐 &nbsp;My website is https://elmoviperr.github.io/
 
 
-<h3>🛠️ &nbsp;My Tools </h3>
+<h3>🛠️ &nbsp;My Tools and Languages </h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
